@@ -1,0 +1,6 @@
+data/
+*.sqlite3
+*.db
+*.flag
+__pycache__/
+.venv/
